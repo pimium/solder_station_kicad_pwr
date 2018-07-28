@@ -1,0 +1,10 @@
+*.bin
+*.bak
+*.ses
+*.dsn
+*.kicad_pcb-bak
+**.js
+**.svg
+**.drl
+/solder_station_kicad*
+
