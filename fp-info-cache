@@ -1,8 +1,15 @@
-14369476815164803
+14496010984857803
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (http://www.bulgin.com/media/bulgin/data/Battery_holders.pdf)
 Bulgin BX0036
+0
+2
+2
+Battery
+BatteryHolder_Eagle_12BH611-GR
+https://eu.mouser.com/datasheet/2/209/EPD-200766-1274481.pdf
+9V Battery Holder
 0
 2
 2
@@ -1954,7 +1961,7 @@ Kingstate KCG0601
 2
 Buzzer_Beeper
 MagneticBuzzer_Kobitone_254-EMB84Q-RO
-https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf
+MagneticBuzzer Kobitone 254-EMB84Q-RO https://www.mouser.es/datasheet/2/209/KT-400385-1171904.pdf
 MagneticBuzzer Kobitone 254-EMB84Q-RO
 0
 3
@@ -2684,6 +2691,90 @@ Capacitor_SMD
 C_3640_9110Metric_Pad2.10x10.45mm_HandSolder
 Capacitor SMD 3640 (9110 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size from: http://datasheets.avx.com/AVX-HV_MLCC.pdf), generated with kicad-footprint-generator
 capacitor handsolder
+0
+2
+2
+Capacitor_SMD
+C_Elec_3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 3.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_4x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_4x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 4.0x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_5x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_5x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 5.0x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x5.8
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x5.8mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_6.3x7.7
+SMD capacitor, aluminum electrolytic nonpolar, 6.3x7.7mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x5.4
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x5.4mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x6.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x6.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_8x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 8.0x10.2mm
+capacitor electrolyic nonpolar
+0
+2
+2
+Capacitor_SMD
+C_Elec_10x10.2
+SMD capacitor, aluminum electrolytic nonpolar, 10.0x10.2mm
+capacitor electrolyic nonpolar
 0
 2
 2
@@ -4336,6 +4427,132 @@ Capacitor_THT
 C_Disc_D16.0mm_W5.0mm_P10.00mm
 C, Disc series, Radial, pin pitch=10.00mm, , diameter*width=16.0*5.0mm^2, Capacitor, http://www.vishay.com/docs/28535/vy2series.pdf
 C Disc series Radial pin pitch 10.00mm  diameter 16.0mm width 5.0mm Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D4.0mm_H5.0mm_P1.50mm
+C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 1.50mm diameter 4mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D4.0mm_H7.0mm_P1.50mm
+C, Radial series, Radial, pin pitch=1.50mm, diameter=4mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 1.50mm diameter 4mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H5.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H7.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D5.0mm_H11.0mm_P2.00mm
+C, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=11mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.00mm diameter 5mm height 11mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H5.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H7.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D6.3mm_H11.0mm_P2.50mm
+C, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=11mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 2.50mm diameter 6.3mm height 11mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D8.0mm_H7.0mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=7mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 7mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D8.0mm_H11.5mm_P3.50mm
+C, Radial series, Radial, pin pitch=3.50mm, diameter=8mm, height=11.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 3.50mm diameter 8mm height 11.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H12.5mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=12.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 12.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H16.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=16mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 16mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D10.0mm_H20.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=10mm, height=20mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 10mm height 20mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D12.5mm_H20.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=20mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 20mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D12.5mm_H25.0mm_P5.00mm
+C, Radial series, Radial, pin pitch=5.00mm, diameter=12.5mm, height=25mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 5.00mm diameter 12.5mm height 25mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D16.0mm_H25.0mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=25mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 16mm height 25mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D16.0mm_H31.5mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=16mm, height=31.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 16mm height 31.5mm Non-Polar Electrolytic Capacitor
+0
+2
+2
+Capacitor_THT
+C_Radial_D18.0mm_H35.5mm_P7.50mm
+C, Radial series, Radial, pin pitch=7.50mm, diameter=18mm, height=35.5mm, Non-Polar Electrolytic Capacitor
+C Radial series Radial pin pitch 7.50mm diameter 18mm height 35.5mm Non-Polar Electrolytic Capacitor
 0
 2
 2
@@ -35294,6 +35511,20 @@ RJ45 Magjack
 14
 13
 Connector_RJ
+RJ45_Cetus_J1B1211CCD_Horizontal
+1 Port RJ45 Magjack Connector Through Hole 10/100 Base-T, Cetus, used and distributed by WIZnet (https://wizwiki.net/wiki/lib/exe/fetch.php?media=products:wiz550web:wiz550webds_kr:j1b1211ccd.pdf)
+RJ45 Magjack
+0
+14
+13
+Connector_RJ
+RJ45_Plug_Metz_AJP92A8813
+plug, ethernet, 8P8C, RJ45 Plug
+AJP92A8813 8P8C RJ45 ethernet plug
+0
+8
+8
+Connector_RJ
 RJ45_Wuerth_7499010121A_Horizontal
 10/100Base-TX RJ45 ethernet magnetic transformer connector horizontal https://katalog.we-online.de/pbs/datasheet/7499010121A.pdf
 RJ45 ethernet magnetic
@@ -37684,6 +37915,13 @@ Crystal
 Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm_HandSoldering
 SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package
 SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal
+Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm
+http://www.txccrystal.com/images/pdf/ax-automotive.pdf
+SMD SMT crystal
 0
 2
 2
@@ -40803,6 +41041,97 @@ resistor handsolder
 2
 2
 Fuse
+Fuse_BelFuse_0ZRE0005FF_L8.3mm_W3.8mm
+Fuse 0ZRE0005FF, BelFuse, Radial Leaded PTC, https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0008FF_L8.3mm_W3.8mm
+Fuse 0ZRE0008FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0012FF_L8.3mm_W3.8mm
+Fuse 0ZRE0012FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0016FF_L9.9mm_W3.8mm
+Fuse 0ZRE0016FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm
+Fuse 0ZRE0025FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0033FF_L11.4mm_W3.8mm
+Fuse 0ZRE0033FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0040FF_L11.5mm_W3.8mm
+Fuse 0ZRE0040FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0055FF_L14.0mm_W4.1mm
+Fuse 0ZRE0055FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0075FF_L11.5mm_W4.8mm
+Fuse 0ZRE0075FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0100FF_L18.7mm_W5.1mm
+Fuse 0ZRE0100FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0125FF_L21.2mm_W5.3mm
+Fuse 0ZRE0125FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0150FF_L23.4mm_W5.3mm
+Fuse 0ZRE0150FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
+Fuse_BelFuse_0ZRE0200FF_L24.9mm_W6.1mm
+Fuse 0ZRE0200FF, BelFuse, Radial Leaded PTC,https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zre-series.pdf
+0ZRE BelFuse radial PTC
+0
+2
+2
+Fuse
 Fuse_Blade_ATO_directSolder
 car blade fuse direct solder
 car blade fuse
@@ -41396,6 +41725,13 @@ Bourns SRR1260 series SMD inductor http://www.bourns.com/docs/product-datasheets
 Bourns SRR1260 SMD inductor
 0
 4
+2
+Inductor_SMD
+L_Bourns_SRR1210A
+Bourns SRR1210A series SMD inductor https://www.bourns.com/docs/Product-Datasheets/SRR1210A.pdf
+Bourns SRR1210A SMD inductor
+0
+2
 2
 Inductor_SMD
 L_Bourns_SRR1260
@@ -45198,6 +45534,34 @@ LED_SideEmitter_Rectangular Rectangular SideEmitter  Rectangular size 4.5x1.6mm^
 0
 2
 2
+LED_THT
+LED_VCCLite_5381H1_6.35x6.35mm
+Red 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Red 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H3_6.35x6.35mm
+Amber 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Amber 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H5_6.35x6.35mm
+Green 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Green 5381 Series LED
+0
+2
+2
+LED_THT
+LED_VCCLite_5381H7_6.35x6.35mm
+Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
+Yellow 5381 Series LED
+0
+2
+2
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -46403,6 +46767,13 @@ Resistor LDR
 2
 2
 OptoDevice
+Sharp_GP2Y0A41SK0F
+http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a41sk_e.pdf
+Distance Sensor Sharp
+0
+2
+2
+OptoDevice
 Sharp_IS471F
 Sharp OPIC IS471F, see http://pdf.datasheetcatalog.com/datasheet/Sharp/mXvrzty.pdf
 Sharp OPIC IS471F
@@ -47075,6 +47446,13 @@ eMMC Flash LFBGA169
 169
 169
 Package_BGA
+Linear_BGA-133_15.0x15.0_Layout12x12_P1.27mm
+Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
+133 pin bga
+0
+134
+134
+Package_BGA
 Maxim_WLP-12
 Maxim_WLP-12 W121B2+1 http://pdfserv.maximintegrated.com/package_dwgs/21-0009.PDF
 Maxim_WLP-12
@@ -47186,6 +47564,13 @@ TFBGA-100
 0
 100
 100
+Package_BGA
+TFBGA-121_10x10mm_Layout11x11_P0.8mm
+TFBGA-121, 11x11 raster, 10x10mm package, pitch 0.8mm; http://ww1.microchip.com/downloads/en/PackagingSpec/00000049BQ.pdf#p495
+BGA 121 0.8
+0
+121
+121
 Package_BGA
 TFBGA-216_13x13mm_Layout15x15_P0.8mm
 TFBGA-216, 15x15 raster, 13x13mm package, pitch 0.8mm; see section 6.8 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf
@@ -48237,6 +48622,34 @@ QFN Microchip 8E 16
 20
 17
 Package_DFN_QFN
+Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm
+QFN, 44 Pin, dual row (http://ww1.microchip.com/downloads/en/DeviceDoc/44L_VQFN_5x5mm_Dual_Row_%5BS3B%5D_C04-21399a.pdf)
+QFN dual row
+0
+49
+45
+Package_DFN_QFN
+Microchip_DRQFN-44-1EP_5x5mm_P0.7mm_EP2.65x2.65mm_ThermalVias
+QFN, 44 Pin, dual row (http://ww1.microchip.com/downloads/en/DeviceDoc/44L_VQFN_5x5mm_Dual_Row_%5BS3B%5D_C04-21399a.pdf)
+QFN dual row
+0
+59
+45
+Package_DFN_QFN
+Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm
+QFN, 64 Pin, dual row (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_VQFN_7x7_Dual_Row_%5BSVB%5D_C04-21420a.pdf)
+QFN dual row
+0
+74
+65
+Package_DFN_QFN
+Microchip_DRQFN-64-1EP_7x7mm_P0.65mm_EP4.1x4.1mm_ThermalVias
+QFN, 64 Pin, dual row (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_VQFN_7x7_Dual_Row_%5BSVB%5D_C04-21420a.pdf)
+QFN dual row
+0
+91
+65
+Package_DFN_QFN
 Microsemi_QFN-40-32-2EP_6x8mm_P0.5mm
 40-Lead (32-Lead Populated) Plastic Quad Flat, No Lead Package - 6x8x0.9mm Body (https://www.microsemi.com/document-portal/doc_download/131677-pd70224-data-sheet)
 QFN 0.5
@@ -48313,6 +48726,13 @@ DFN 0.5
 0
 8
 8
+Package_DFN_QFN
+OnSemi_VCT-28_3.5x3.5mm_P0.4mm
+OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+OnSemi VCT DFN_QFN
+0
+28
+28
 Package_DFN_QFN
 Panasonic_HQFN-16-1EP_4x4mm_P0.65mm_EP2.9x2.9mm
 Panasonic HQFN-16, 4x4x0.85mm (https://industrial.panasonic.com/content/data/SC/ds/ds7/c0/PKG_HQFN016-A-0404XZL_EN.pdf)
@@ -49119,6 +49539,20 @@ QFN 0.5
 65
 57
 Package_DFN_QFN
+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm
+QFN, 56 Pin (http://www.ti.com/lit/ds/symlink/tlc5957.pdf#page=23 (page 23f)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+73
+57
+Package_DFN_QFN
+QFN-56-1EP_8x8mm_P0.5mm_EP5.6x5.6mm_ThermalVias
+QFN, 56 Pin (http://www.ti.com/lit/ds/symlink/tlc5957.pdf#page=23 (page 23f)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+99
+57
+Package_DFN_QFN
 QFN-64-1EP_9x9mm_P0.5mm_EP4.7x4.7mm
 QFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/60001477A.pdf (page 1083)), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
 QFN DFN_QFN
@@ -49321,6 +49755,20 @@ QFN DFN_QFN
 0
 43
 29
+Package_DFN_QFN
+Texas_RGE0024H_EP2.7x2.7mm
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=42&zoom=200,-13,779), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+Texas QFN DFN_QFN
+0
+29
+25
+Package_DFN_QFN
+Texas_RGE0024H_EP2.7x2.7mm_ThermalVias
+Texas  QFN, 24 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=42&zoom=200,-13,779), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+Texas QFN DFN_QFN
+0
+39
+25
 Package_DFN_QFN
 Texas_RUM0016A
 16 Pin WQFN - 4x4x0.8 mm Body; (see Texas Instruments Package Specification RUM0016A)
@@ -51800,6 +52248,13 @@ LGA 28 5.2x3.8mm Pitch 0.5mm
 28
 28
 Package_LGA
+Linear_LGA-133_15.0x15.0_Layout12x12_P1.27mm
+Analog Devices (Linear Tech), 133-pin LGA uModule, 15.0x15.0x4.32mm, https://www.analog.com/media/en/technical-documentation/data-sheets/4637fc.pdf
+133 pin lga
+0
+133
+133
+Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_lga_layoutBorder_generator.py
 ST HLGA LGA
@@ -52535,12 +52990,47 @@ HTSSOP 0.65
 29
 21
 Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm
+HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+26
+21
+Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias
+HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+42
+21
+Package_SO
+HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias_HandSolder
+HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+42
+21
+Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_ThermalVias
 20-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [HTSSOP], with thermal pad with vias
 HTSSOP 0.65
 0
 45
 21
+Package_SO
+HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm
+HTSSOP, 24 Pin (http://www.ti.com/lit/ds/symlink/tps703.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+28
+25
+Package_SO
+HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm_ThermalVias
+HTSSOP, 24 Pin (http://www.ti.com/lit/ds/symlink/tps703.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+47
+25
 Package_SO
 HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm
 HTSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm; thermal pad
@@ -52583,6 +53073,20 @@ SSOP 0.65 PowerPAD
 0
 83
 33
+Package_SO
+HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm
+HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=47&zoom=140,-67,15), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+46
+39
+Package_SO
+HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
+HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=47&zoom=140,-67,15), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO
+0
+87
+39
 Package_SO
 HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm
 HTSSOP56: plastic thin shrink small outline package http://www.ti.com/lit/ds/symlink/drv8301.pdf
@@ -53592,6 +54096,13 @@ SSOP 0.5
 56
 56
 Package_SO
+Vishay_PowerPAK_1212-8_Single
+PowerPAK 1212-8 Single (https://www.vishay.com/docs/71656/ppak12128.pdf, https://www.vishay.com/docs/72597/72597.pdf)
+Vishay PowerPAK 1212-8 Single
+0
+5
+5
+Package_SO
 Vishay_PowerPAK_SO-8
 www.vishay.com/docs/73152/si7336adp.pdf
 Vishay PowerPAK SO-8
@@ -53682,6 +54193,13 @@ SON DFN_QFN
 0
 13
 9
+Package_SON
+Texas_DQK
+Texas WSON-6 DQK, http://www.ti.com/lit/ds/symlink/csd16301q2.pdf
+Texas WSON6 2x2mm
+0
+10
+8
 Package_SON
 Texas_DSC0010J
 3x3mm Body, 0.5mm Pitch, DSC0010J, WSON, http://www.ti.com/lit/ds/symlink/tps61201.pdf
@@ -59737,6 +60255,13 @@ THT DIP DIL ZIF 25.4mm 1000mil Socket
 0
 40
 40
+Socket
+Wells_648-0482211SA01
+https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-249019997.1498114824
+48pin TSOP Socket
+0
+48
+48
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
