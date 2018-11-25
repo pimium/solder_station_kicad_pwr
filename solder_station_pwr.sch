@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:solder_station_pwr-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -733,7 +733,7 @@ U 1 1 5BF6F6F9
 P 3250 6200
 F 0 "C8" H 3350 6200 50  0000 L CNN
 F 1 "1u" H 3300 6100 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 3288 6050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 3288 6050 50  0001 C CNN
 F 3 "~" H 3250 6200 50  0001 C CNN
 	1    3250 6200
 	1    0    0    -1  
@@ -822,7 +822,7 @@ U 1 1 5BFB19C0
 P 2750 6200
 F 0 "C7" H 2850 6200 50  0000 L CNN
 F 1 "4700p" H 2800 6100 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm" H 2788 6050 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 2788 6050 50  0001 C CNN
 F 3 "~" H 2750 6200 50  0001 C CNN
 	1    2750 6200
 	1    0    0    -1  
@@ -857,7 +857,7 @@ U 1 1 5BFC48FC
 P 5000 5150
 F 0 "C9" H 5115 5196 50  0000 L CNN
 F 1 "1u" H 5115 5105 50  0000 L CNN
-F 2 "Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm" H 5038 5000 50  0001 C CNN
+F 2 "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm" H 5038 5000 50  0001 C CNN
 F 3 "~" H 5000 5150 50  0001 C CNN
 	1    5000 5150
 	0    1    1    0   
