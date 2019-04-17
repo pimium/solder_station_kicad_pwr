@@ -11,7 +11,7 @@
     (via_costs 50)
     (plane_via_costs 5)
     (start_ripup_costs 100)
-    (start_pass_no 756)
+    (start_pass_no 296)
     (layer_rule F.Cu
       (active on)
       (preferred_direction horizontal)
@@ -40,11 +40,35 @@
     )
     (attach off)
   )
+  (padstack "Via[0-1]_1400:900_um"
+    (shape
+      (circle F.Cu 1400.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 1400.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_1400:900_um" "Via[0-1]_1400:900_um" default
+  )
+  (via 
+    "Via[0-1]_1400:900_um-kicad_default" "Via[0-1]_1400:900_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_800:400_um-signal" "Via[0-1]_800:400_um" signal
+  )
+  (via 
+    "Via[0-1]_1400:900_um-signal" "Via[0-1]_1400:900_um" signal
+  )
   (via 
     "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
   )
   (via 
     "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    signal "Via[0-1]_1400:900_um-signal"
   )
   (via_rule
     default "Via[0-1]_800:400_um"
@@ -63,14 +87,23 @@
     )
   )
   (class "kicad_default"
-    "Net-(BR1-Pad4)" "/UNR_5V" /7V5P "Net-(BR1-Pad1)" GND +5V "-5V" "Net-(C10-Pad1)"
-    "/240AV-" "Net-(C11-Pad1)" +36V "Net-(C14-Pad1)" "Net-(C15-Pad1)" "Net-(D1-Pad2)" "Net-(D2-Pad1)" "Net-(D3-Pad3)"
-    /240AV+ "Net-(D6-Pad2)" "Net-(F1-Pad1)" "Net-(J6-Pad2)" "Net-(Q3-Pad2)" "Net-(R3-Pad2)" "Net-(R4-Pad1)" "Net-(R16-Pad1)"
-    "Net-(R22-Pad2)" "Net-(R24-Pad2)" /FB2 /FB1
+    GND "Net-(BR1-Pad4)" +5V "-5V" "/240AV-" /240AV+ "Net-(F1-Pad1)" "Net-(R22-Pad2)"
+    "Net-(R24-Pad2)" "Net-(BR1-Pad1)"
     (clearance_class "kicad_default")
     (via_rule kicad_default)
     (rule
       (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class signal
+    "Net-(BR1-Pad3)" +5VA "Net-(D6-Pad1)" +12V "Net-(BR1-Pad2)"
+    (clearance_class signal)
+    (via_rule signal)
+    (rule
+      (width 508.0)
     )
     (circuit 
       (use_layer F.Cu B.Cu)
